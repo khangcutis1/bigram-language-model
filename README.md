@@ -174,7 +174,6 @@ This means that when we scale up to GPT-sized models with billions of parameters
 | Resource | Description |
 |:---|:---|
 | [Andrej Karpathy — "makemore"](https://github.com/karpathy/makemore) | The inspiration for this repository. Karpathy's brilliant series building language models from scratch. |
-| [Speech and Language Processing (Jurafsky & Martin)](https://web.stanford.edu/~jurafsky/slp3/) | The definitive NLP textbook — Chapter 3 covers N-gram models in depth. |
 | [PyTorch Documentation](https://pytorch.org/docs/stable/) | Official docs for all the PyTorch modules used here. |
 | [The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/) | When you're ready to go beyond Bigrams and into modern Transformers. |
 
